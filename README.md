@@ -10,23 +10,23 @@ We'll organise into different streams here.
 
 ### HTML & CSS
 
-* Responsive Portfolio
-* Photography Site
-* Technical Documentation Page
-* Survey Forms
+* Build a Personal Portfolio Webpage
+* Build a Survey Form
+* Build a Technical Documentation Page
+* Google.com page 
 
 ### JavaScript
 
-* ToDo App
-* Tic Tac Toe Game
-* JS Quiz App
+* Adaptive social media interface
+* Weather Checkup
+* Online Quizzes
 * Covid CheckUp Test
 
-### React JS
+### Java
 
-* ToDo App
-* Weather App
-* Recipe search App
+* ATM Simulator System
+* Image Compression and Decompression
+* Barcode Generation
 
 ## Full Stack Ideas
 
@@ -38,17 +38,17 @@ We'll organise into different streams here.
 
 ### MERN Stack
 
-* User Management System
+* Online Corkboard
 
 ### Blockchain
 
 * Simple Voting Dapp
-* Digital Land Registry System
+* Transparent and Genuine Charity Application
 
-### Python-Django
+### Python
 
-* Todo App
-* Password Generator
+* Face Recognition
+* Snake Game
 * Personal Portfolio
 
 ## Contribution
